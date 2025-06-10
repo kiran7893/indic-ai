@@ -21,8 +21,8 @@ This is a Next.js 15 application using the App Router that allows users to uploa
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
-   cd poem-transliteration-app
+   git clone https://github.com/kiran7893/indic-ai.git
+   cd indic-ai
    ```
 
 2. **Install dependencies**:
